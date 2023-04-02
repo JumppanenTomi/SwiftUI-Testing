@@ -2,7 +2,7 @@
 //  LandmarksApp.swift
 //  Landmarks
 //
-//  Created by iosdev on 1.4.2023.
+//  Created by Tomi Jumppanen on 1.4.2023.
 //
 
 import SwiftUI

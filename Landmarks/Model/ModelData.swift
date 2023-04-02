@@ -2,7 +2,7 @@
 //  ModelData.swift
 //  Landmarks
 //
-//  Created by iosdev on 2.4.2023.
+//  Created by Tomi Jumppanen on 2.4.2023.
 //
 
 import Foundation
